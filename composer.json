@@ -4,9 +4,10 @@
   "homepage": "https://atropim.com",
   "minimum-stability": "stable",
   "require": {
-    "atrocore/core": "~1.1.0",
+    "atrocore/core": "*",
     "atrocore/pim": "*",
-    "atrocore/dam": "*"
+    "atrocore/dam": "*",
+    "atrocore/export-feeds": "*"
   },
   "scripts": {
     "pre-update-cmd": "ComposerCmd::preUpdate",
