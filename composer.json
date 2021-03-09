@@ -2,7 +2,7 @@
   "name": "atrocore/skeleton-pim",
   "description": "Skeleton for AtroPIM",
   "homepage": "https://atropim.com",
-  "minimum-stability": "stable",
+  "minimum-stability": "RC",
   "require": {
     "atrocore/core": "*",
     "atrocore/pim": "*",
