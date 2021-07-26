@@ -9,11 +9,5 @@
     "atrocore/dam": "*",
     "atrocore/export-feeds": "*",
     "atrocore/import-feeds": "*"
-  },
-  "repositories": [
-    {
-      "type": "composer",
-      "url": "https://packagist.atrocore.com/packages.json?id=common"
-    }
-  ]
+  }
 }
