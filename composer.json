@@ -7,6 +7,6 @@
     "atrocore/core": "*",
     "atrocore/pim": "*",
     "atrocore/export": "*",
-    "atrocore/import-feeds": "*"
+    "atrocore/import": "*"
   }
 }
