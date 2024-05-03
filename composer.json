@@ -6,7 +6,7 @@
   "require": {
     "atrocore/core": "*",
     "atrocore/pim": "*",
-    "atrocore/export-feeds": "*",
+    "atrocore/export": "*",
     "atrocore/import-feeds": "*"
   }
 }
