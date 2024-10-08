@@ -7,6 +7,8 @@
     "atrocore/core": "*",
     "atrocore/pim": "*",
     "atrocore/export": "*",
-    "atrocore/import": "*"
+    "atrocore/export-http": "*",
+    "atrocore/import": "*",
+    "atrocore/import-http": "*"
   }
 }
