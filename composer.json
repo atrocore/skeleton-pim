@@ -4,7 +4,7 @@
   "homepage": "https://atropim.com",
   "minimum-stability": "stable",
   "require": {
-    "atrocore/core": ">=2.3.4",
+    "atrocore/core": ">=2.3.12",
     "atrocore/pim": "*",
     "atrocore/export": "*",
     "atrocore/export-http": "*",
