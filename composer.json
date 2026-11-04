@@ -3,6 +3,7 @@
   "description": "Skeleton for AtroPIM",
   "homepage": "https://atropim.com",
   "minimum-stability": "stable",
+  "prefer-stable": true,
   "require": {
     "atrocore/core": ">=2.3.12",
     "atrocore/pim": "*",
